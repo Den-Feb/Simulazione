@@ -1,0 +1,23 @@
+$color1: #042A2B;
+$color2: #5EB1BF;
+$color3: #CDEDF6;
+$color4: #EF7B45;
+$color5: #D84727;
+
+p{
+    text-align: left;
+}
+
+img{
+    height: 20px;
+}
+
+.private{
+    background-color: white;
+    color: #042A2B;
+}
+
+.access{
+    background-color: $color4;
+    color: white;
+}

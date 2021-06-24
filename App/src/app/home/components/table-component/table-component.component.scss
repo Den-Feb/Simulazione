@@ -1,0 +1,20 @@
+$color1: #042A2B;
+$color2: #5EB1BF;
+$color3: #CDEDF6;
+$color4: #EF7B45;
+$color5: #D84727;
+
+table{
+    border-collapse: collapse;
+    border: 2px solid $color1;
+}
+
+tr{
+    border: 2px solid $color1;
+}
+
+th{
+    border: 2px solid $color1;
+    text-align: center;
+    color: $color1;
+}
